@@ -1,4 +1,31 @@
-# المنار — فكرة الشعار وبرومبتات Freepik (مرحلة الأسود والأبيض)
+# المنار — فكرة الشعار
+
+## الجولة الثانية: «ميم النافذة» (الفكرة المعتمدة للتجربة)
+
+نوافذ مئذنة المسجد في شعاره على شكل ثقب المفتاح: دائرة فوق ساق. هذا هو شكل حرف «م» منفصلاً، وهو قلب كلمة «المنار» وحرف M في Manaar (وفي Moskee أيضاً).
+شكل واحد بسيط (دائرة وساق) يُقرأ بخمس طرق:
+
+1. **حرف م:** الاسم.
+2. **نافذة المسجد:** الانتماء، والعنصر مأخوذ من شعار المسجد نفسه لا مُضاف إليه.
+3. **عين الميم البيضاء:** الضوء الذي يعبر النافذة، أي معنى المنار.
+4. **قامة امرأة بحجاب** (رأس مستدير وثوب): المؤسسة نسائية، من غير رسم وجه.
+5. **علامة الموقع:** «المنار» في المعجم هو العَلَم الذي يُنصب على الطريق ليُهتدى به.
+
+النموذج المستعمل: Google Nano Banana 2.1 (2k).
+
+### برومبت الرمز وحده
+```
+A minimalist, professional logo symbol in solid black on a pure white background. It is one single bold shape that reads at the same time as the isolated Arabic letter Meem (م) and as a Moorish keyhole window: a perfect circle on top that flows into a slender vertical stem, the stem ending in a diagonal calligraphic cut like a reed-pen stroke. Inside the circle sits a small round white counter, like light shining through a window. The silhouette is so simple it also suggests a landmark pin and, subtly, a woman wearing a hijab, without drawing any person or face. Flat vector, perfectly balanced, generous white space, no other letters, no text, no gradients, no shadows, timeless contemporary 2026 Islamic brand mark.
+```
+
+### برومبت الرمز مع الاسم
+```
+A professional black and white horizontal logo lockup on a pure white background. On the left, the symbol: the isolated Arabic letter Meem (م) drawn as a Moorish keyhole window — a circle on top flowing into a slender stem with a diagonal calligraphic cut at the bottom, a small round white counter inside the circle like light. On the right, the Arabic word «المنار» set in a bold modern geometric Kufi-style typeface, and directly below it the Latin text «AL MANAAR» in a clean bold condensed sans-serif similar to DIN. Solid black only, flat vector, precise spacing and alignment, no other text, no gradients, no shadows, contemporary 2026 Islamic institution identity.
+```
+
+---
+
+## الجولة الأولى (رُفضت)
 
 ## لماذا يُصمَّم هذا الشعار؟
 

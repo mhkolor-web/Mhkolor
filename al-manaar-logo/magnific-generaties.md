@@ -1,4 +1,4 @@
-# نتائج Magnific — الجولة الأولى (أسود وأبيض)
+# نتائج Magnific — الجولة الأولى (أسود وأبيض، رُفضت)
 
 المشروع في Magnific: «Al Manaar — Logo». البرومبتات في `brief-en-prompts.md`.
 الأرقام 1–4 من نموذج GPT 2، والأرقام 5–8 من نموذج Recraft V4.1 Pro.
@@ -54,3 +54,23 @@
 | 6 | Recraft V4.1 Pro | [فتح](https://www.magnific.com/app/creation/BhsgUvvoQR) | `BhsgUvvoQR` |
 | 7 | Recraft V4.1 Pro | [فتح](https://www.magnific.com/app/creation/dtjsgmlXSL) | `dtjsgmlXSL` |
 | 8 | Recraft V4.1 Pro | [فتح](https://www.magnific.com/app/creation/aFOP9HdfSh) | `aFOP9HdfSh` |
+
+# الجولة الثانية — «ميم النافذة» (Nano Banana 2.1)
+
+## الرمز وحده
+
+| # | الرابط | المعرّف |
+|---|---|---|
+| 1 | [فتح](https://www.magnific.com/app/creation/1lGnoTSr4r) | `1lGnoTSr4r` |
+| 2 | [فتح](https://www.magnific.com/app/creation/jUYctDQLD0) | `jUYctDQLD0` |
+| 3 | [فتح](https://www.magnific.com/app/creation/WDHbwxhcXe) | `WDHbwxhcXe` |
+| 4 | [فتح](https://www.magnific.com/app/creation/lJ0VvXdgv9) | `lJ0VvXdgv9` |
+
+## الرمز مع الاسم
+
+| # | الرابط | المعرّف |
+|---|---|---|
+| 1 | [فتح](https://www.magnific.com/app/creation/eIxLNO3dqL) | `eIxLNO3dqL` |
+| 2 | [فتح](https://www.magnific.com/app/creation/tCU7A31mZJ) | `tCU7A31mZJ` |
+| 3 | [فتح](https://www.magnific.com/app/creation/eIxLNyRdqL) | `eIxLNyRdqL` |
+| 4 | [فتح](https://www.magnific.com/app/creation/gOTMatlSXO) | `gOTMatlSXO` |
