@@ -1,6 +1,24 @@
 # المنار — فكرة الشعار
 
-## الجولة الثانية: «ميم النافذة» (الفكرة المعتمدة للتجربة)
+## الجولة الثالثة: «أُمّ» (الفكرة الحالية)
+
+- الحرفان الأوّلان من Al Manaar هما A وM، وبالعربية يصيران أ + م، أي **«أم»**.
+- **«أ»** هي مئذنة المسجد: ألف قائمة، والهلال الذي فوق مئذنة شعار المسجد يأخذ مكان الهمزة. فالهلال همزة ورأس مئذنة معاً.
+- **«م»** هي نافذة المئذنة في شعار المسجد (دائرة فوق ساق)، وعينها البيضاء ضوء.
+- النتيجة أن عناصر شعار المسجد نفسها (المئذنة والهلال والنافذة) تكتب كلمة «أم».
+- **المعنى:** «الأمّ مدرسةٌ إذا أعددتَها أعددتَ شعباً طيّبَ الأعراق» (حافظ إبراهيم)، وهذه رسالة المنار. و«أم» أيضاً الأصل والمرجع (أمّ الكتاب، أمّ القرى)، ومنها اشتُقّت «الأمّة».
+- **لماذا هي واضحة:** كلمة من حرفين يقرؤها كل عربي فوراً، والمئذنة يراها الجميع.
+
+النموذج المستعمل: Google Nano Banana 2.1 (2k).
+
+### برومبت المونوغرام
+```
+A smart, minimalist Arabic typographic monogram logo in solid black on a pure white background. It spells the Arabic word «أم» (mother), read right to left. On the RIGHT: a tall, bold, upright alif (ا) drawn as a slender minaret tower, and on top of it, exactly where the hamza of «أ» would sit, a small crescent moon opening upward, so the crescent is both the hamza and the minaret's finial. On the LEFT: the isolated Arabic letter meem (م), a round loop sitting on the baseline with its tail dropping straight down below the baseline; its round white counter glows like a lit window. Geometric modern Kufi style, thick even strokes, flat vector, perfectly balanced, generous white space, no other letters, no text, no gradients, no shadows, premium 2026 Islamic brand identity.
+```
+
+---
+
+## الجولة الثانية: «ميم النافذة» (رُفضت: غير واضحة)
 
 نوافذ مئذنة المسجد في شعاره على شكل ثقب المفتاح: دائرة فوق ساق. هذا هو شكل حرف «م» منفصلاً، وهو قلب كلمة «المنار» وحرف M في Manaar (وفي Moskee أيضاً).
 شكل واحد بسيط (دائرة وساق) يُقرأ بخمس طرق:

@@ -55,7 +55,7 @@
 | 7 | Recraft V4.1 Pro | [فتح](https://www.magnific.com/app/creation/dtjsgmlXSL) | `dtjsgmlXSL` |
 | 8 | Recraft V4.1 Pro | [فتح](https://www.magnific.com/app/creation/aFOP9HdfSh) | `aFOP9HdfSh` |
 
-# الجولة الثانية — «ميم النافذة» (Nano Banana 2.1)
+# الجولة الثانية — «ميم النافذة» (Nano Banana 2.1، رُفضت)
 
 ## الرمز وحده
 
@@ -74,3 +74,23 @@
 | 2 | [فتح](https://www.magnific.com/app/creation/tCU7A31mZJ) | `tCU7A31mZJ` |
 | 3 | [فتح](https://www.magnific.com/app/creation/eIxLNyRdqL) | `eIxLNyRdqL` |
 | 4 | [فتح](https://www.magnific.com/app/creation/gOTMatlSXO) | `gOTMatlSXO` |
+
+# الجولة الثالثة — «أُمّ» (Nano Banana 2.1)
+
+## المونوغرام
+
+| # | الرابط | المعرّف |
+|---|---|---|
+| 1 | [فتح](https://www.magnific.com/app/creation/dtjsn7JXSL) | `dtjsn7JXSL` |
+| 2 | [فتح](https://www.magnific.com/app/creation/6AthSQpiJO) | `6AthSQpiJO` |
+| 3 | [فتح](https://www.magnific.com/app/creation/iGmvUF73uK) | `iGmvUF73uK` |
+| 4 | [فتح](https://www.magnific.com/app/creation/s7cTHBVl8e) | `s7cTHBVl8e` |
+
+## المونوغرام مع الاسم
+
+| # | الرابط | المعرّف |
+|---|---|---|
+| 1 | [فتح](https://www.magnific.com/app/creation/ksAzfdD16B) | `ksAzfdD16B` |
+| 2 | [فتح](https://www.magnific.com/app/creation/vQJypGha47) | `vQJypGha47` |
+| 3 | [فتح](https://www.magnific.com/app/creation/bxR2hp25Y2) | `bxR2hp25Y2` |
+| 4 | [فتح](https://www.magnific.com/app/creation/MBkr2yiDCm) | `MBkr2yiDCm` |
