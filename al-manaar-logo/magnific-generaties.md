@@ -75,7 +75,7 @@
 | 3 | [فتح](https://www.magnific.com/app/creation/eIxLNyRdqL) | `eIxLNyRdqL` |
 | 4 | [فتح](https://www.magnific.com/app/creation/gOTMatlSXO) | `gOTMatlSXO` |
 
-# الجولة الثالثة — «أُمّ» (Nano Banana 2.1)
+# الجولة الثالثة — «أُمّ» (Nano Banana 2.1، رُفضت)
 
 ## المونوغرام
 
@@ -94,3 +94,23 @@
 | 2 | [فتح](https://www.magnific.com/app/creation/vQJypGha47) | `vQJypGha47` |
 | 3 | [فتح](https://www.magnific.com/app/creation/bxR2hp25Y2) | `bxR2hp25Y2` |
 | 4 | [فتح](https://www.magnific.com/app/creation/MBkr2yiDCm) | `MBkr2yiDCm` |
+
+# الجولة الرابعة — «المئذنة في الاسم» (Nano Banana 2.1)
+
+## خط رقعة ناعم
+
+| # | الرابط | المعرّف |
+|---|---|---|
+| 1 | [فتح](https://www.magnific.com/app/creation/ovlUmvI829) | `ovlUmvI829` |
+| 2 | [فتح](https://www.magnific.com/app/creation/fHy9QHiCDY) | `fHy9QHiCDY` |
+| 3 | [فتح](https://www.magnific.com/app/creation/MBkxdBTDCm) | `MBkxdBTDCm` |
+| 4 | [فتح](https://www.magnific.com/app/creation/4RotiZM9Aa) | `4RotiZM9Aa` |
+
+## كوفي هندسي حديث
+
+| # | الرابط | المعرّف |
+|---|---|---|
+| 1 | [فتح](https://www.magnific.com/app/creation/MBkxdmeDCm) | `MBkxdmeDCm` |
+| 2 | [فتح](https://www.magnific.com/app/creation/xSnclOWjfW) | `xSnclOWjfW` |
+| 3 | [فتح](https://www.magnific.com/app/creation/nVQq0d4YQD) | `nVQq0d4YQD` |
+| 4 | [فتح](https://www.magnific.com/app/creation/9Z8m3YuNYZ) | `9Z8m3YuNYZ` |
