@@ -114,3 +114,12 @@
 | 2 | [فتح](https://www.magnific.com/app/creation/xSnclOWjfW) | `xSnclOWjfW` |
 | 3 | [فتح](https://www.magnific.com/app/creation/nVQq0d4YQD) | `nVQq0d4YQD` |
 | 4 | [فتح](https://www.magnific.com/app/creation/9Z8m3YuNYZ) | `9Z8m3YuNYZ` |
+
+# الجولة السادسة — «نافذة بضربة قلم» (GPT 2.5، جودة عالية)
+
+| # | الرابط | المعرّف |
+|---|---|---|
+| 1 | [فتح](https://www.magnific.com/app/creation/fHyNJnMCDY) | `fHyNJnMCDY` |
+| 2 | [فتح](https://www.magnific.com/app/creation/dtjgrNvXSL) | `dtjgrNvXSL` |
+| 3 | [فتح](https://www.magnific.com/app/creation/iGmfIkm3uK) | `iGmfIkm3uK` |
+| 4 | [فتح](https://www.magnific.com/app/creation/xSn0G8BjfW) | `xSn0G8BjfW` |
