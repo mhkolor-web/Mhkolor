@@ -226,3 +226,14 @@
 | 2 | [فتح](https://www.magnific.com/app/creation/jUWoTwfLD0) | مسودة |
 | 3 | [فتح](https://www.magnific.com/app/creation/jUWoVeZLD0) | **المختارة** |
 | 4 | [فتح](https://www.magnific.com/app/creation/nVFs5rRYQD) | تصحيح |
+
+# الجولة الخامسة عشرة — «سَنَدُها» و«تاء المنارة» (GPT 2.5، جودة متوسطة)
+
+| # | الفكرة | الرابط | الحالة |
+|---|---|---|---|
+| 1 | تاء المنارة | [فتح](https://www.magnific.com/app/creation/s70m14Bl8e) | رُفضت |
+| 2 | تاء المنارة | [فتح](https://www.magnific.com/app/creation/BhliDEpoQR) | رُفضت |
+| 3 | سَنَدُها | [فتح](https://www.magnific.com/app/creation/ksGXHy216B) | مسودة (مرجع التصحيح) |
+| 4 | سَنَدُها | [فتح](https://www.magnific.com/app/creation/VXkOYfpMMU) | مسودة |
+| 5 | سَنَدُها | [فتح](https://www.magnific.com/app/creation/tCw28aRmZJ) | تصحيح |
+| 6 | سَنَدُها | [فتح](https://www.magnific.com/app/creation/rgnoklJxtc) | **المختارة** |

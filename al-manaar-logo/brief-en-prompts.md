@@ -12,6 +12,73 @@
 - لا توليد دون رؤية النتيجة. تُراجَع كل صورة قبل إرسالها، ويُرسل للعميل نموذج واحد مكتمل لكل فكرة، لا أربعة.
 - المستوى المطلوب هو مستوى المراجع، في الفكرة وفي التنفيذ.
 
+## الجولة الخامسة عشرة: «سَنَدُها»، المئذنة في فراغ الحجاب (مراجَعة بالعين قبل الإرسال)
+
+- **الفكرة:** امرأة بحجاب واقفة مستقيمة رافعة رأسها، ناظرة إلى الاسم. بين ظهرها وطرف حجابها المنساب يتكوّن في الفراغ الأبيض شكل مئذنة: رأس مدبّب، وقبة بصلية، وشرفة، وبرج طويل. المئذنة غير مرسومة، بل يصنعها الحجاب. ترى المرأة أولاً ثم تكتشف المئذنة.
+- **الرسالة:** المسلمة الواثقة، والمسجد سندها وخلفها.
+- **فكرة «تاء المنارة» (ة رأساً محجباً):** وُلّدت مسودتان ورُفضت بعد المراجعة، لأنها تُقرأ حرف O أو Q وليس فيها مئذنة.
+- **الطريقة:** مسودتان لكل فكرة، ثم تصحيح واحد للفكرة المختارة بالمسودة كمرجع (رأس أوضح، ومئذنة أبسط، وطرف حجاب أخف).
+- **الملف:** `ronde-15-vrouw-mineret/al-manaar-vrouw-mineret.png`.
+- **التكلفة:** ست صور بجودة متوسطة، 600 نقطة.
+- **قبل الاعتماد:** خط الوجه رفيع جداً، ويُقوّى عند التحويل إلى فكتور.
+
+### برومبت «سَنَدُها» (المسودة)
+
+```
+Premium minimalist logo for "Al Manaar", the Muslim sisters' group (zustergroep) of a mosque in the Netherlands. Solid black on a pure white background, flat vector, crisp edges, horizontal 3:2 canvas, generous white space. The quality of a top branding studio, in the fluid calligraphic language of contemporary modest-fashion logos. Not an illustration, not clip art, not a cartoon.
+
+SYMBOL (left): a figure/ground logo with a hidden second image. You see one woman first and discover a hidden minaret second. The symbol is about 2.4 times taller than wide and is made of only two black forms with strong thick-and-thin contrast, like broad-brush calligraphy.
+
+FORM 1, THE WOMAN (right two-thirds of the symbol, seen first): a slender woman wearing a hijab, in profile, facing RIGHT toward the name, standing perfectly upright with her chin slightly lifted. She is one solid black calligraphic shape:
+- head: a smooth, rounded hijab hood, the heaviest mass of the logo. At the front it comes forward over the forehead and ends in a soft tapered point;
+- face: NOT drawn. It is only a smooth white bay under that point, open to the right, between the forehead point and a small soft tuck of fabric at the chin. No outline, no profile line, no features;
+- front: from the chin tuck, one long, calm, slightly convex curve falls down her front;
+- back: round over the back of the head, curving inward at the nape, gently outward over the shoulder, then one almost straight vertical line down;
+- the whole form narrows downward and ends at the base in one fine tapered point, like a single sweep of a broad brush. It is widest at the shoulders, about half the symbol's width.
+
+FORM 2, THE LOOSE END OF HER SCARF (left part of the symbol): one light calligraphic ribbon, at most a third as thick as her hood, tapering from medium to hairline. It springs from the top of her hood and falls down behind her, following her back like a mirror image at a small distance and never touching her: close beside the back of her head; swelling outward to the left in one smooth round curve at the level of her nape; curving back in close to her at the shoulder; then falling straight down, parallel to her back; and at the very bottom curving away to the left in one soft, tapered wave, like the end of a silk scarf lifted by a breeze.
+
+THE HIDDEN MINARET (seen second): the white space enclosed between her back and the ribbon is the silhouette of a slender mosque minaret, exactly as tall as she is. From top to bottom: a fine point where the ribbon leaves her crown; a slim, slightly concave tip along the back of her head; a full, round onion dome at her nape (at its widest about one fifth of the symbol's width); a narrow neck at her shoulder; then a straight, slim, even tower down her back to the ground. The two edges of this white shape mirror each other, so the dome is symmetrical about a vertical axis. The minaret is NOT drawn: no outline, no lines, no windows, no crescent, nothing inside it. It exists only as white negative space between the two black forms, quiet enough that the woman is always read first.
+
+NAME (to the right of the symbol, vertically centered on it; the woman looks toward it): "Al Manaar" in a refined high-contrast modern serif with calligraphic stress, regular weight, capital A and capital M and the rest lowercase, generous letter spacing. Under it, small: "ZUSTERGROEP" in uppercase, in a clean technical sans-serif in the style of DIN, very widely letter-spaced. The symbol is about twice as tall as this text block.
+
+STRICTLY AVOID: a second woman or a second head; a ribbon as heavy as the woman (it must never look like a shadow, a cape or a twin); eyes, nose, lips, a chin line or any facial feature; hands, arms, feet; a full-length dress or abaya with hems; a pointed hood; a drawn mosque, minaret, tower, dome, crescent, star, arch, keyhole or window; a circle or frame; any other text; gradients, grey, shadows, texture, 3D, mockup, background scene.
+```
+
+### برومبت التصحيح (مع المسودة مرجعاً)
+
+```
+Refine the attached logo into a finished, premium black-and-white logo. Keep exactly its concept, composition and layout: on the left, a slender woman in a hijab in profile facing right, made of one solid black calligraphic form that tapers down to a fine point; behind her, one loose scarf ribbon; and the WHITE negative space between her back and that ribbon forms the silhouette of a mosque minaret. On the right, "Al Manaar" in a refined high-contrast serif with "ZUSTERGROEP" small, widely spaced, below. Horizontal 3:2, pure white background, solid black, flat vector, crisp smooth edges.
+
+FIX THESE THINGS:
+1. THE HEAD must read instantly as an elegant young woman wearing a hijab, never as a hooded cloak, a monk, a bird or a beak. Make the head smaller and softly rounded, the hijab hugging the crown and wrapping smoothly under the chin. The face is white negative space, cut out of the black hijab as one clean, delicate, minimal profile line: a gentle forehead, a small straight nose, closed lips, a soft lifted chin. No eye, no eyebrow, no inner details. Calm, dignified, confident, chin slightly lifted, looking ahead toward the name.
+2. THE HIDDEN MINARET: make it simpler and more elegant, like the minaret of a modern mosque logo: from top to bottom a fine pointed spire, one smooth full onion dome (symmetrical), one single thin balcony line just under the dome, then a long slim straight tower down to the bottom. No beads, no knobs, no stacked rings, no chess-piece details. It exists only as white space between two black edges; nothing is drawn inside it.
+3. THE SCARF RIBBON (left): lighter and more calligraphic, like one sweep of a broad brush: hairline where it leaves the crown, medium weight where it swells around the dome, then tapering again and ending at the bottom in one soft outward curl. Clearly thinner than the woman's body, never a second figure or a shadow.
+4. The woman's body: one smooth, calm, slender curve from shoulder to a fine point at the base, slightly convex at the front, straight along the back. Everything has smooth vector curves with strong thick-and-thin contrast, no jagged edges or bumps.
+
+The overall feeling: a confident Muslim woman standing upright, and the minaret appears from the fold of her scarf. Luxury modest-fashion branding quality.
+
+STRICTLY AVOID: eyes, hands, arms, feet, dress hems; a drawn outline of the minaret; crescent, star, arch, mosque building; frame or circle; any other text; grey, gradients, shadows, texture, 3D, mockup.
+```
+
+### برومبت «تاء المنارة» (رُفضت)
+
+```
+Premium minimalist logo for "Al Manaar", the Muslim sisters' group (zustergroep) of a mosque in the Netherlands. Solid black on a pure white background, flat vector, crisp edges, square canvas, centered vertical layout, generous white space. The quality of a top branding studio's fashion-brand identity. Not clip art, not an illustration, not a cartoon.
+
+SYMBOL (top, centered): one single Arabic letter, the isolated ta marbuta «ة» (the letter that makes Arabic words feminine), written with a broad reed pen in one confident stroke, in the rounded spirit of Moroccan Maghrebi calligraphy, with the strong thick-and-thin contrast of a broad reed pen. The letter is at the same time the head of a woman wearing a hijab, seen from the front, with no face drawn. Exact construction:
+1. The body of the letter is one closed loop: an upright, slightly egg-shaped oval, about 1.25 times taller than wide, broader at the crown and narrowing toward the chin. The crown is round and smooth, never pointed. The axis is vertical, tilted at most 5 degrees.
+2. The stroke begins at the crown, a little right of center, with the small angled entry tick of the reed pen. It runs down the left side as a heavy, full, swelling curve (the scarf falling beside the face; at its thickest about a quarter of the loop's width, the heaviest part of the whole logo), thins to a fine hairline as it turns under the chin, and rises up the right side as a hairline that closes softly into the crown tick.
+3. The white counter inside the loop is the face opening: a smooth, completely empty upright oval.
+4. At the lower left, where the stroke turns under the chin, one tapered tail sweeps out to the left and slightly down, nearly horizontal, about two thirds as long as the loop is wide, ending in a fine point: the end of the scarf lying over the shoulder.
+5. The two dots of the ة: two small rhombus-shaped reed-pen dots (each a small square turned on its corner, about one eighth of the loop's width), side by side, the right one slightly higher, floating above the upper right of the loop and clearly separated from it by more than one dot-width. Never inside the loop, never touching it, never centered above the crown.
+The tail at lower left and the dots at upper right balance each other on one diagonal. The symbol is compact, asymmetric and hand-written, never a geometric icon. It must read instantly as the correctly written Arabic letter ة to an Arabic reader, and as a calm, upright, self-assured veiled head to everyone else.
+
+NAME (below the symbol, centered, with clear space between them): "Al Manaar" in a refined high-contrast modern serif with calligraphic stress, regular weight, capital A and capital M and the rest lowercase, generous letter spacing. Under it, small: "ZUSTERGROEP" in uppercase, in a clean technical sans-serif in the style of DIN, very widely letter-spaced. The symbol is about 2.5 times as tall as the capital letters of "Al Manaar" and about one third as wide as the name.
+
+STRICTLY AVOID: any other text or any other Arabic letter; eyes, nose, mouth or any facial feature; neck, shoulders, body or hands; a tall flourish or ascender rising above the loop; a sparkle, star, crescent, or a dot centered on top of the head; an arch, dome, minaret or mosque; a circle, badge or frame around the symbol; a monoline or uniform-width stroke; gradients, grey, shadows, texture, 3D, mockup.
+```
+
 ## الجولة الرابعة عشرة: المئذنة حجاباً منساباً (مراجَعة بالعين قبل الإرسال)
 
 - **الطريقة:** مراجع مرفوعة إلى Magnific (The Hijab Storee وHazeel وشعار المسجد)، ومسودات بجودة متوسطة تُراجَع، ثم تصحيح.
