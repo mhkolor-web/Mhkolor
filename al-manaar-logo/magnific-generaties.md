@@ -123,3 +123,32 @@
 | 2 | [فتح](https://www.magnific.com/app/creation/dtjgrNvXSL) | `dtjgrNvXSL` |
 | 3 | [فتح](https://www.magnific.com/app/creation/iGmfIkm3uK) | `iGmfIkm3uK` |
 | 4 | [فتح](https://www.magnific.com/app/creation/xSn0G8BjfW) | `xSn0G8BjfW` |
+
+# الجولة الثامنة — «من قماش إلى قوس» (GPT 2.5، جودة عالية)
+
+## 1 — من قماش إلى قوس (أفقي، سانس)
+
+| # | الرابط | المعرّف |
+|---|---|---|
+| 1 | [فتح](https://www.magnific.com/app/creation/s70XV6Ll8e) | `s70XV6Ll8e` |
+| 2 | [فتح](https://www.magnific.com/app/creation/6AmQvVtiJO) | `6AmQvVtiJO` |
+| 3 | [فتح](https://www.magnific.com/app/creation/LwcdT6tswO) | `LwcdT6tswO` |
+| 4 | [فتح](https://www.magnific.com/app/creation/mE76O1vhJQ) | `mE76O1vhJQ` |
+
+## 2 — الطيّة (أفقي، سانس)
+
+| # | الرابط | المعرّف |
+|---|---|---|
+| 1 | [فتح](https://www.magnific.com/app/creation/TdKl1QAVNR) | `TdKl1QAVNR` |
+| 2 | [فتح](https://www.magnific.com/app/creation/lJTBMnTgv9) | `lJTBMnTgv9` |
+| 3 | [فتح](https://www.magnific.com/app/creation/nVFrqfgYQD) | `nVFrqfgYQD` |
+| 4 | [فتح](https://www.magnific.com/app/creation/vQO3PUba47) | `vQO3PUba47` |
+
+## 3 — الموجة (عمودي، سيرف)
+
+| # | الرابط | المعرّف |
+|---|---|---|
+| 1 | [فتح](https://www.magnific.com/app/creation/8aS4wUuIrU) | `8aS4wUuIrU` |
+| 2 | [فتح](https://www.magnific.com/app/creation/6AmQvhbiJO) | `6AmQvhbiJO` |
+| 3 | [فتح](https://www.magnific.com/app/creation/IfU97wXtvE) | `IfU97wXtvE` |
+| 4 | [فتح](https://www.magnific.com/app/creation/Cq42NNUEEy) | `Cq42NNUEEy` |

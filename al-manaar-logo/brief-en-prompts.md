@@ -1,5 +1,60 @@
 # المنار — فكرة الشعار
 
+## الجولة الثامنة: «من قماش إلى قوس» (الاتجاه المعتمد)
+
+قماش الحجاب خطٌّ واحد متصل يتحوّل إلى قوس المسجد، دون رسم امرأة.
+
+- **الحركة:** يبدأ الخط من اليسار طرفاً حرّاً ليّناً ينساب كقماش الشعار القديم، ثم يرتفع ويلتفّ فوق القمة، وينزل على اليمين خطاً مستقيماً ثابتاً يقف على الأرض.
+- **الشكل الناتج:** قوس حدوة الفرس، أي نافذة مئذنة مسجد الإسلام في شعاره: رأس مستدير أعرض قليلاً من الساق المستقيمة.
+- **التحوّل هو الفكرة:** نصف الخط قماش ليّن، ونصفه عمارة مستقيمة. ينتقل من الحجاب إلى المسجد في حركة واحدة.
+- **المعنى:** «النساء نسيج المسجد»، فمن قماش الحجاب تُبنى نافذة النور. داخل القوس فارغ أبيض، وهو النور، أي «المنار». المرأة حاضرة بالقماش وحده، لا بالرسم.
+- **القرابة:** يأخذ من شعار المسجد شكل القوس، ومن الشعار القديم حركة القماش الملتف. فهو امتداد لهوية تعرفها الأخوات، لا قطيعة معها.
+- **ممنوع:** امرأة أو رأس أو وجه أو ظل جسد أو يدان، وهلال أو نجمة، وأي شيء داخل القوس. ولا يتقاطع طرفا القماش في الأسفل حتى لا يشبه شريط التوعية.
+- **للإعلان:** خط واحد يُرسم أمام العين، فيصلح لشعار متحرك: يدخل القماش منساباً ثم يستقيم قوساً.
+
+النموذج: GPT 2.5 بجودة عالية، أربع نتائج لكل صيغة. الروابط في `magnific-generaties.md`.
+
+### 1 — من قماش إلى قوس (أفقي، الاسم بخط سانس حديث)
+```
+Minimalist modern logo, solid black on a pure white background, flat vector, crisp clean edges.
+
+SYMBOL (left): one single continuous line shaped like a soft silk ribbon of a headscarf, with elegant thick-to-thin width like real fabric. The ribbon begins at the lower left as a loose, tapered fabric end that drifts in with one gentle wave, then sweeps upward, wraps over the top in a smooth full round curve (the widest part of the ribbon, with one soft fold where the fabric turns over), and comes down on the right as a perfectly straight, even, vertical stroke standing firmly on the baseline. Together the ribbon draws the outline of a Moroccan horseshoe arch — a round head slightly wider than its straight shaft — exactly like the keyhole windows of a mosque minaret. Soft fabric on the left, clean architecture on the right: the scarf turns into the mosque's arch. The arch is open at the bottom and completely empty inside: pure white light.
+
+No woman, no person, no head, no face, no silhouette, no figure, no hands, no crescent, no star, nothing inside the arch.
+
+NAME (right): the words "Al Manaar" in a refined modern geometric sans-serif, medium weight, slightly wide letter spacing, optically centered with the symbol. No other text.
+
+Contemporary 2026 brand identity, generous white space, perfect balance, no gradients, no shadows, no texture, no mockup.
+```
+
+### 2 — الطيّة (شريط عريض بطيّة واحدة حادة)
+```
+Minimalist modern logo, solid black on a pure white background, flat vector, crisp clean edges.
+
+SYMBOL (left): one wide, flat ribbon of fabric, like a folded headscarf seen from the front, forms the outline of a Moroccan horseshoe arch — a round head slightly wider than its straight shaft — exactly like the keyhole windows of a mosque minaret. The band keeps an even width all around, except at the upper left of the round head, where it folds over itself once with a single crisp, clean fold that reveals a thin sliver of its reverse side as a white line inside the black band: the only sign that the arch is made of fabric. On the right the band runs straight down and ends squarely on the baseline. On the left, at the bottom, the band does not stop: it softens and flows out to the left as a gently curving, tapered tail, like the loose end of a scarf. The arch is open at the bottom and completely empty inside: pure white light.
+
+No woman, no person, no head, no face, no silhouette, no figure, no hands, no crescent, no star, nothing inside the arch.
+
+NAME (right): the words "Al Manaar" in a refined modern geometric sans-serif, medium weight, slightly wide letter spacing, optically centered with the symbol. No other text.
+
+Contemporary 2026 brand identity, generous white space, perfect balance, no gradients, no shadows, no texture, no mockup.
+```
+
+### 3 — الموجة (موجة أفقية طويلة كالشعار القديم، والاسم تحته بخط سيرف أنيق)
+```
+Minimalist modern logo, solid black on a pure white background, flat vector, crisp clean edges, vertical layout.
+
+SYMBOL (top, centered): one single continuous line shaped like a soft silk ribbon of a headscarf, with elegant thick-to-thin width like real fabric. It begins at the lower left as a loose fabric end that flows in with a long, graceful horizontal wave, like a scarf moving in the wind, then rises and wraps over the top into the round head of a Moroccan horseshoe arch, and comes down on the right as a straight, calm vertical line resting on the baseline. The scarf itself draws the mosque's arched window: a round head slightly wider than its straight shaft, like the keyhole windows of a mosque minaret. Open at the bottom, completely empty inside: pure white light.
+
+No woman, no person, no head, no face, no silhouette, no figure, no hands, no crescent, no star, nothing inside the arch.
+
+NAME (below the symbol, centered): "Al Manaar" in an elegant high-contrast modern serif with soft curves, black. No other text.
+
+Contemporary 2026 brand identity, generous white space, perfect balance, no gradients, no shadows, no texture, no mockup.
+```
+
+---
+
 ## الجولة السادسة: «نافذة بضربة قلم» (بعد إجابات العميل: رمز + خط، والمرأة إيحاء مجرّد جداً)
 
 - **الرمز:** قوس نافذة المسجد (حدوة الفرس) مرسوم بضربة قلم خطّية واحدة. تنتفخ الضربة وتنساب فوق أعلى القوس كطيّة حجاب، ثم ترقّ على الجانب الآخر. إيحاء مجرّد بالمرأة، بلا قامة ولا وجه.
