@@ -7,6 +7,56 @@
 - **من شعار المسجد:** المئذنة.
 - **نوع الذكاء:** مثال لكل توجه: معنى مخفي في الفراغ، شكل واحد بمعنيين، حرف يصير رمزاً، تجريد هندسي بقصة.
 
+## مراجع العميل (في `referenties/`)
+
+Hazeel وAida وIslamic Hijab وThe Hijab Storee. القاسم المشترك:
+- الحجاب نفسه هو الرمز: رأس بحجاب بلا ملامح، يُرسم بضربات خطّية منسابة رفيعة وعريضة.
+- أحسنها يدمج الرمز بحرف من الاسم: الهاء في Hazeel، والعين مكان الـA في Aida.
+- الاسم بخط سيرف أنيق متباعد الحروف، وتحته سطر صغير.
+
+## الجولة الحادية عشرة: الحجاب حرفاً من «المنار» (على أسلوب المراجع)
+
+النموذج: GPT 2.5، جودة عالية، أربع نتائج لكل صيغة. الروابط في `magnific-generaties.md`.
+
+| # | الصيغة | الرمز | من المئذنة |
+|---|---|---|---|
+| 1 | **ميم المنار** | الميم رأس بحجاب من الجانب: عروتها الرأس، وضربة قماش فوقها، وذيلها الحجاب النازل. تحلّ محل الـM: «Al [م]anaar». | هلال رأس المئذنة نقطة نور فوق الحجاب. |
+| 2 | **ألف القامة** | الألف امرأة واقفة مستقيمة: في رأسها ضربة قماش كالحجاب، ثم تنزل كالعباءة. تحلّ محل الـA: «[ا]l Manaar». | الألف القائمة كالمئذنة، والهلال فوقها. |
+| 3 | **القبة والحجاب** | حجاب من الأمام بثنيات منسابة ووجه فارغ بلا ملامح. قمته ترتفع كقبة المئذنة. | القبة والهلال فوقها. |
+
+### 1 — ميم المنار
+```
+Elegant minimalist logo, solid black on a pure white background, flat vector, crisp clean edges.
+
+THE SYMBOL: the Arabic letter meem (م), drawn as one fluid calligraphic brush stroke with refined thick-and-thin contrast, which is at the same time the head of a woman wearing a hijab, seen in profile, with no facial features at all. The round loop of the meem is the head; a soft, wide stroke of fabric sweeps over the top of it like a headscarf; and the meem's tail flows down behind it like the hijab falling over the shoulder. A tiny upward-opening crescent floats just above the scarf like a small point of light — the crescent from the top of a minaret.
+
+THE NAME: the meem symbol replaces the capital letter M, so the logo reads "Al Manaar": the word "Al", a space, then the meem symbol standing in for the M, then the letters "anaar", all sitting on one baseline, in a refined high-contrast modern serif, light weight, generous letter spacing. Below, small and widely letter-spaced: "ZUSTERGROEP". No other text.
+
+Graceful, modest, confident, in the style of high-end modest-fashion and hijab brand logos. Contemporary 2026 brand identity, generous white space, no gradients, no shadows, no texture, no mockup.
+```
+
+### 2 — ألف القامة
+```
+Elegant minimalist logo, solid black on a pure white background, flat vector, crisp clean edges.
+
+THE SYMBOL: the Arabic letter alif (ا), a tall, perfectly upright calligraphic stroke with refined thick-and-thin contrast, which is at the same time a woman standing tall and confident, with no face and no features: at the top of the alif, one soft, wide stroke of fabric curves around like a hijab over the head, then the stroke falls straight and long like an abaya. Its slender, upright silhouette, crowned at the top, also echoes a minaret; a tiny upward-opening crescent sits just above it, like the crescent on top of a minaret.
+
+THE NAME: the alif symbol replaces the capital letter A, so the logo reads "Al Manaar": the alif symbol standing in for the A, then the letter "l", a space, then "Manaar", all on one baseline, in a refined high-contrast modern serif, light weight, generous letter spacing. Below, small and widely letter-spaced: "ZUSTERGROEP". No other text.
+
+Graceful, modest, confident, in the style of high-end modest-fashion and hijab brand logos. Contemporary 2026 brand identity, generous white space, no gradients, no shadows, no texture, no mockup.
+```
+
+### 3 — القبة والحجاب
+```
+Elegant minimalist logo, solid black on a pure white background, flat vector, crisp clean edges, centered vertical layout.
+
+THE SYMBOL (top): a front view of a hijab wrapped around a head, with no face and no features: the face opening is a smooth, empty oval, framed by two or three elegant layered folds of fabric drawn as fluid calligraphic strokes with thick-and-thin contrast, the last fold sweeping down to one side and ending in a soft point. The crown of the hijab rises gently to a soft point, like the onion dome of a minaret, and a tiny upward-opening crescent sits just above it, like the finial on top of a minaret — so the veiled head is also the dome of the mosque's minaret.
+
+THE NAME (below the symbol): "Al Manaar" in a refined high-contrast modern serif, light weight, generous letter spacing, and under it, small and widely letter-spaced, "ZUSTERGROEP". No other text.
+
+Graceful, modest, confident, in the style of high-end modest-fashion and hijab brand logos. Contemporary 2026 brand identity, generous white space, no gradients, no shadows, no texture, no mockup.
+```
+
 ## الجولة العاشرة: مثال لكل توجه (رُفضت كلها: تافهة، ولم تُولَّد)
 
 | # | التوجه | الفكرة | ما نراه | الرسالة |

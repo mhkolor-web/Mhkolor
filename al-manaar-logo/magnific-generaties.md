@@ -181,3 +181,32 @@
 | 2 | [فتح](https://www.magnific.com/app/creation/N2tQZb26D9) | `N2tQZb26D9` |
 | 3 | [فتح](https://www.magnific.com/app/creation/u5Nzbc7QLD) | `u5Nzbc7QLD` |
 | 4 | [فتح](https://www.magnific.com/app/creation/s70BwtFl8e) | `s70BwtFl8e` |
+
+# الجولة الحادية عشرة — الحجاب حرفاً من «المنار» (GPT 2.5، جودة عالية)
+
+## 1 — ميم المنار
+
+| # | الرابط | المعرّف |
+|---|---|---|
+| 1 | [فتح](https://www.magnific.com/app/creation/tCw6ikEmZJ) | `tCw6ikEmZJ` |
+| 2 | [فتح](https://www.magnific.com/app/creation/ksGMDPX16B) | `ksGMDPX16B` |
+| 3 | [فتح](https://www.magnific.com/app/creation/UPDtmGPwny) | `UPDtmGPwny` |
+| 4 | [فتح](https://www.magnific.com/app/creation/lJTo8ZVgv9) | `lJTo8ZVgv9` |
+
+## 2 — ألف القامة
+
+| # | الرابط | المعرّف |
+|---|---|---|
+| 1 | [فتح](https://www.magnific.com/app/creation/UPDtmW6wny) | `UPDtmW6wny` |
+| 2 | [فتح](https://www.magnific.com/app/creation/s70BoGXl8e) | `s70BoGXl8e` |
+| 3 | [فتح](https://www.magnific.com/app/creation/KLAVM6Ekqp) | `KLAVM6Ekqp` |
+| 4 | [فتح](https://www.magnific.com/app/creation/Dorw7bUpcl) | `Dorw7bUpcl` |
+
+## 3 — القبة والحجاب
+
+| # | الرابط | المعرّف |
+|---|---|---|
+| 1 | [فتح](https://www.magnific.com/app/creation/tCw6iwrmZJ) | `tCw6iwrmZJ` |
+| 2 | [فتح](https://www.magnific.com/app/creation/LwcXBcfswO) | `LwcXBcfswO` |
+| 3 | [فتح](https://www.magnific.com/app/creation/ovg49ge829) | `ovg49ge829` |
+| 4 | [فتح](https://www.magnific.com/app/creation/Eb9GzNJuuO) | `Eb9GzNJuuO` |
