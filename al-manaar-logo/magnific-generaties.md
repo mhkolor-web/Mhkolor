@@ -210,3 +210,10 @@
 | 2 | [فتح](https://www.magnific.com/app/creation/LwcXBcfswO) | `LwcXBcfswO` |
 | 3 | [فتح](https://www.magnific.com/app/creation/ovg49ge829) | `ovg49ge829` |
 | 4 | [فتح](https://www.magnific.com/app/creation/Eb9GzNJuuO) | `Eb9GzNJuuO` |
+
+# الجولة الثانية عشرة — «مئذنة من قماش» (GPT 2.5، جودة عالية، صورتان)
+
+| # | الرابط | المعرّف |
+|---|---|---|
+| 1 | [فتح](https://www.magnific.com/app/creation/8aS984nIrU) | `8aS984nIrU` |
+| 2 | [فتح](https://www.magnific.com/app/creation/cpbscsh0eP) | `cpbscsh0eP` |

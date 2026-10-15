@@ -12,6 +12,44 @@
 - لا توليد دون رؤية النتيجة. تُراجَع كل صورة قبل إرسالها، ويُرسل للعميل نموذج واحد مكتمل لكل فكرة، لا أربعة.
 - المستوى المطلوب هو مستوى المراجع، في الفكرة وفي التنفيذ.
 
+## الجولة الثانية عشرة: «مئذنة من قماش» (اتجاه العميل: المئذنة على شكل حجاب منساب)
+
+مئذنة مسجد الإسلام بنسبها وأجزائها، وكل جزء فيها قماش منساب، كأنها امرأة بحجاب تقف مستقيمة ونراها من الخلف:
+
+| جزء المئذنة | يصير |
+|---|---|
+| الهلال | الطيّة العليا للحجاب بشكل هلال |
+| القبة | الحجاب ملتفّاً على الرأس |
+| الطابق العلوي | الخمار على الكتفين بحافة منحنية |
+| الطابق السفلي | العباءة الطويلة |
+| الخط الأبيض بين الوجهين | خط التقاء القماش على الظهر |
+
+- المحور مستقيم تماماً، وهذه هي الثقة. لا يتحرك إلا طرف الخمار وذيل العباءة كأن نسمة مرّت بهما.
+- ضربات خطّية قليلة رفيعة وعريضة مع فراغ أبيض، بلا وجه.
+- من بعيد مئذنة، ومن قريب امرأة واقفة بثقة.
+
+النموذج: GPT 2.5، جودة عالية، صورتان فقط. الروابط في `magnific-generaties.md`.
+
+```
+A premium, minimal logo for "Al Manaar", the sisters' group of a mosque in the Netherlands. Solid black on a pure white background, flat vector, crisp edges.
+
+CONCEPT — a minaret made of fabric. The symbol has the exact silhouette and proportions of a slender Moroccan-style minaret: a small onion dome crowned by a crescent, a narrower upper tier, and a wider, taller lower tier, seen from its corner so that two faces meet along one thin vertical white line. But nothing is built: every part is soft, flowing hijab fabric, as if a woman wearing a headscarf, a khimar and a long abaya were standing perfectly upright, seen from behind:
+- the crescent is the crescent-shaped top fold of the headscarf;
+- the onion dome is the scarf wrapped around the crown of the head;
+- the upper tier is the khimar falling over the shoulders, ending in a softly curved hem;
+- the lower tier is the long abaya;
+- the thin vertical white line is the fold where the fabric meets down the back.
+Her axis is perfectly vertical and calm; only the hem of the khimar and the bottom edge of the abaya lift very slightly, as if touched by a breeze.
+
+DRAWING: only a few confident calligraphic brush strokes with elegant thick-and-thin contrast, inspired by contemporary Arabic calligraphic logos; the white space between the strokes completes the form. Not a filled silhouette, not a cartoon, not an illustration. No face, no hands, no feet, no other objects.
+
+From a distance it reads as the mosque's minaret; up close, as a woman standing tall and confident.
+
+NAME: centered below the symbol, "Al Manaar" in a refined high-contrast modern serif, light weight, generous letter spacing; under it, small and widely letter-spaced, "ZUSTERGROEP". No other text.
+
+Generous white space, perfect balance, no gradients, no shadows, no texture, no mockup.
+```
+
 ## مراجع العميل (في `referenties/`)
 
 Hazeel وAida وIslamic Hijab وThe Hijab Storee. القاسم المشترك:
