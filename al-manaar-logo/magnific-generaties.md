@@ -152,3 +152,32 @@
 | 2 | [فتح](https://www.magnific.com/app/creation/6AmQvhbiJO) | `6AmQvhbiJO` |
 | 3 | [فتح](https://www.magnific.com/app/creation/IfU97wXtvE) | `IfU97wXtvE` |
 | 4 | [فتح](https://www.magnific.com/app/creation/Cq42NNUEEy) | `Cq42NNUEEy` |
+
+# الجولة التاسعة — ثلاث أفكار جديدة (GPT 2.5، جودة عالية)
+
+## 1 — مئذنة المسبحة
+
+| # | الرابط | المعرّف |
+|---|---|---|
+| 1 | [فتح](https://www.magnific.com/app/creation/jUWdSccLD0) | `jUWdSccLD0` |
+| 2 | [فتح](https://www.magnific.com/app/creation/BhlPmgdoQR) | `BhlPmgdoQR` |
+| 3 | [فتح](https://www.magnific.com/app/creation/5j2TxG9Kxe) | `5j2TxG9Kxe` |
+| 4 | [فتح](https://www.magnific.com/app/creation/p8x7oL9ehw) | `p8x7oL9ehw` |
+
+## 2 — التوليب
+
+| # | الرابط | المعرّف |
+|---|---|---|
+| 1 | [فتح](https://www.magnific.com/app/creation/5j2TxW3Kxe) | `5j2TxW3Kxe` |
+| 2 | [فتح](https://www.magnific.com/app/creation/yiBf6hsPW9) | `yiBf6hsPW9` |
+| 3 | [فتح](https://www.magnific.com/app/creation/VXkSdlXMMU) | `VXkSdlXMMU` |
+| 4 | [فتح](https://www.magnific.com/app/creation/MB1UXgLDCm) | `MB1UXgLDCm` |
+
+## 3 — الطيّة الأولى
+
+| # | الرابط | المعرّف |
+|---|---|---|
+| 1 | [فتح](https://www.magnific.com/app/creation/vQORuApa47) | `vQORuApa47` |
+| 2 | [فتح](https://www.magnific.com/app/creation/N2tQZb26D9) | `N2tQZb26D9` |
+| 3 | [فتح](https://www.magnific.com/app/creation/u5Nzbc7QLD) | `u5Nzbc7QLD` |
+| 4 | [فتح](https://www.magnific.com/app/creation/s70BwtFl8e) | `s70BwtFl8e` |

@@ -1,14 +1,49 @@
 # المنار — فكرة الشعار
 
-## الجولة التاسعة: ثلاث أفكار جديدة (بالكلام فقط، لا توليد قبل الاختيار)
+## الجولة التاسعة: ثلاث أفكار جديدة (اختار العميل الثلاث)
 
-القاعدة: لا قوس، ولا ثقب مفتاح، ولا مئذنة بوصفها الفكرة، ولا امرأة، ولا قماش يصير قوساً. وكل نتيجة تُراجَع قبل إرسالها.
+القاعدة: لا قوس، ولا ثقب مفتاح، ولا مئذنة بوصفها الفكرة، ولا امرأة، ولا قماش يصير قوساً.
+طريقة العمل: التوليد بالبرومبت فقط. النماذج المرسومة يدوياً رُفضت لأنها كرتونية. والصلة بشعار المسجد تُكتب صريحة في البرومبت: الوجهان بالمنظور، وخط الشقّ الأبيض، والقبة والهلال.
+النموذج: GPT 2.5، جودة عالية، أربع نتائج لكل فكرة. الروابط في `magnific-generaties.md`.
 
 | # | الفكرة | الشكل | المعنى | من شعار المسجد |
 |---|---|---|---|---|
 | 1 | **مئذنة المسبحة** (المرشّحة) | حلقة حبّات متماثلة على خيط واحد، تلتقي في الأسفل عند القطعة الطويلة التي تنتهي بها المسبحة. | كل حبّة أخت، والخيط الواحد هو الأخوّة، والحبّات لآلئ. القطعة الطويلة اسمها في العربية «المئذنة» لأنها تُصنع على شكل مئذنة، فاسم المؤسسة هو القطعة التي تقود الحبّات. | قطعة «المئذنة» بظل مئذنة المسجد: قبة وطابقان. |
 | 2 | **التوليب** | توليب هندسي بكأس واحدة يشقّها خط أبيض رفيع في الوسط، فتصير بتلتين. | التوليب رمز هولندا، وجاءها من العالم الإسلامي (من إسطنبول العثمانية إلى ليدن سنة 1593). الجذر إسلامي والإزهار هولندي، والبتلتان أختان. | خط الشقّ الأبيض الذي يقسم مئذنة المسجد إلى وجهين. |
 | 3 | **الطيّة الأولى** | مربّع مطويّ من الزاوية إلى الزاوية فصار مثلّثاً. | كل حجاب يبدأ بهذه الطيّة، وكل امرأة تعرفها. نصفا القماش أختان، والمثلث يتجه إلى الأعلى كالنور. | زاويتا وجهَي المئذنة، وخط الطيّ هو خطها الأبيض. |
+
+### 1 — مئذنة المسبحة
+```
+Premium minimalist logo for "Al Manaar", the sisters' group of a mosque in the Netherlands. Solid black on a pure white background, flat vector, crisp edges, refined geometric construction. Not a cartoon, not clip art, not an illustration.
+
+SYMBOL (left): Islamic prayer beads (a misbaha) seen flat from the front. A perfect circle of fifteen identical round beads, like pearls on one invisible thread, evenly spaced. At the bottom of the circle the two ends of the thread go into the misbaha's long end piece, which in Arabic is called "the minaret". Here it is shaped exactly like a small square minaret seen from its corner in two-point perspective: two flat faces side by side, separated by a thin vertical white gap at the corner, a narrower upper tier sitting on a wider lower tier, each face with a tiny keyhole-shaped window cut out, crowned by a small onion dome with a tiny upward-opening crescent on top. Under the minaret piece hangs a short, neat tassel made of straight vertical lines. Calm, balanced, elegant.
+
+NAME (right of the symbol): "Al Manaar" in a refined modern geometric sans-serif, medium weight. Beneath it, small and widely letter-spaced: "ZUSTERGROEP". No other text.
+
+No woman, no face, no figure, no hands, no gradients, no shadows, no 3D, no texture, no mockup. Contemporary 2026 brand identity by a top branding studio, generous white space.
+```
+
+### 2 — التوليب
+```
+Premium minimalist logo for "Al Manaar", the sisters' group of a mosque in the Netherlands. Solid black on a pure white background, flat vector, crisp edges, refined geometric construction. Not a cartoon, not clip art, not an illustration.
+
+SYMBOL (left): a single tulip built with strict geometry. Its cup is made of two flat petals that meet in the middle like the two faces of a square minaret seen from its corner in two-point perspective: the left petal slightly wider than the right one, the two separated by one thin vertical white gap exactly where the corner of the minaret would be. Their top edges rise to crisp points, and a smaller pointed central petal shows between them. Below: a straight, slender stem and one long, clean, pointed leaf. Two petals of one flower, like two sisters. Quiet, balanced, elegant.
+
+NAME (right of the symbol): "Al Manaar" in a refined modern geometric sans-serif, medium weight. Beneath it, small and widely letter-spaced: "ZUSTERGROEP". No other text.
+
+No woman, no face, no figure, no hands, no gradients, no shadows, no 3D, no texture, no mockup, no outline-only drawing. Contemporary 2026 brand identity by a top branding studio, generous white space.
+```
+
+### 3 — الطيّة الأولى
+```
+Premium minimalist logo for "Al Manaar", the sisters' group of a mosque in the Netherlands. Solid black on a pure white background, flat vector, crisp edges, refined geometric construction. Not a cartoon, not clip art, not origami, not an illustration.
+
+SYMBOL (left): a square headscarf being folded corner to corner into a triangle, captured mid-fold — the first gesture of putting on a hijab. Standing on one corner like a diamond, its left half lies flat as a large solid triangle; its right half is lifting and folding over, shown narrower in perspective. Together the two halves look exactly like the two faces of a square minaret seen from its corner in two-point perspective, the left face wide and the right face narrow. Between them runs one thin vertical white gap: the fold line, and the corner of the minaret. The outer edge of the lifting half curves very slightly, so it reads as soft fabric rather than paper. Calm, balanced, elegant.
+
+NAME (right of the symbol): "Al Manaar" in a refined modern geometric sans-serif, medium weight. Beneath it, small and widely letter-spaced: "ZUSTERGROEP". No other text.
+
+No woman, no face, no figure, no hands, no gradients, no shadows, no 3D, no texture, no mockup. Contemporary 2026 brand identity by a top branding studio, generous white space.
+```
 
 ---
 
