@@ -217,3 +217,12 @@
 |---|---|---|
 | 1 | [فتح](https://www.magnific.com/app/creation/8aS984nIrU) | `8aS984nIrU` |
 | 2 | [فتح](https://www.magnific.com/app/creation/cpbscsh0eP) | `cpbscsh0eP` |
+
+# الجولة الرابعة عشرة — المئذنة حجاباً منساباً (GPT 2.5، جودة متوسطة، مع مراجع)
+
+| # | الرابط | الحالة |
+|---|---|---|
+| 1 | [فتح](https://www.magnific.com/app/creation/SyMheP0Ub8) | مسودة |
+| 2 | [فتح](https://www.magnific.com/app/creation/jUWoTwfLD0) | مسودة |
+| 3 | [فتح](https://www.magnific.com/app/creation/jUWoVeZLD0) | **المختارة** |
+| 4 | [فتح](https://www.magnific.com/app/creation/nVFs5rRYQD) | تصحيح |
